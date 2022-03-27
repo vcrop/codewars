@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.vcrop.codewars.GreedTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-27T21:18:51" hostname="MS7599" time="0.041">
-  <properties/>
-  <testcase name="testExample()" classname="ru.vcrop.codewars.GreedTest" time="0.041"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
